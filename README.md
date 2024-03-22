@@ -1,4 +1,4 @@
-# DSU Quiz-Game-
+# DSU-Quiz-Game-
 This is our first semster final project of programing fundament course.
 
 INTRODUCTION: Our DSU Quiz Game in C with Enhanced Functionality is 
